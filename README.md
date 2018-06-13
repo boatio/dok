@@ -17,9 +17,17 @@ dok 터미널에 이렇게 입력해준다<br>
 `dok html -y`<br>
 그럼 예제 파일이랑 같이 html이 만들어진다 <br>
 `-y`는 yaga < 예제라는 것이다<br>
+<pre><code>
+[dok html -y]
+|-- 현재 디렉토리
+|   |-- index.html
+|   |-- script.css
+__________________
+</code></pre>
 생성된 예제 html을 마음대로 수정해도 상관이 없다.
 `dok html`을 쓰면 그냥 html파일을 만들 수 있다
 <pre><code>
+[dok html]
 |-- 현재 디렉토리
 |   |-- index.html
 |   |-- dok.js
