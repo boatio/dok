@@ -1,2 +1,2 @@
+zikijs|https://github.com/boatio/boat.js/archive/master.zip|1.0|boatonboat
 starcraft|https://github.com/papao9218/startcraft/archive/master.zip|1.0|스타크래프트카봇모드
-zikijs|https://github.com/boatio/boat.js/blob/master/src/js/boat.js/archive/master.zip|1.0|boatonboat
