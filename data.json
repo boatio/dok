@@ -1,5 +1,7 @@
-"node_express":{
+{
+  "node_express":{
 "link":"https://github.com/boatio/node_express.git",
 "ver":"1.0",
 "by":"boat",
+}
 }
