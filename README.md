@@ -56,8 +56,8 @@ by : boatonboat
 zikijs|https://github.com/boatio/boat.js/archive/master.zip|1.0|boatonboat   //<<이것을 복사
 [C:~/myconsole] - $
 </code></pre>
-이렇게 복사해주어서 issuge에 올려주면 자동으로 추가된다 그럼 다운을 해보자
-만약 개발자가 올렸다고 댓글을 달아주면
+이렇게 복사해주어서 issuge에 올려주면 
+만약 개발자가 올렸다고 이모지 또는 댓글을  달아주면 올려준것이다
 <pre><code>
 Dok 콘솔
 [C:~/myconsole] - $ dok install zikijs
