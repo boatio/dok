@@ -36,3 +36,37 @@ __________________
 만약 dok_package 폴더 안에 생성 하고 싶으면<br>
 dok html -y -f<br>
 `-f`가 있으면 폴더를 생성하여 만든다는 뜻이다.<br>
+<hr>
+`dok init`를 입력하면 도크 양식이 뜨는데 npm 같은 거에서는 npm init 같 은 것 이 다<br>
+`name : `
+<br>`Link : ` (//참고로 github링크만 가능)<br>
+`ver : ` (버전)<br>
+`by : ` (제작자)<br>
+이렇게 양식이 적용됬다.
+인제 개발자 issues에 요청을 해주면
+보는 즉시 개발자가 올려준다.
+그럼 실제로 한 번 올려보자
+<pre><code>
+Dok 콘솔
+[C:~/myconsole] - $ dok init
+name : zikijs
+Link : https://github.com/boatio/boat.js
+by : boatonboat
+
+zikijs|https://github.com/boatio/boat.js/archive/master.zip|1.0|boatonboat   //<<이것을 복사
+[C:~/myconsole] - $
+</code></pre>
+이렇게 복사해주어서 issuge에 올려주면 자동으로 추가된다 그럼 다운을 해보자
+만약 개발자가 올렸다고 댓글을 달아주면
+<pre><code>
+Dok 콘솔
+[C:~/myconsole] - $ dok install zikijs
+Get... Data Json
+Find Moduel..
+download  Package..
+100% [............................................................] 4581 / 4581
+zikijs @ 1.0
+Made by  boatonboat
+</code></pre>
+이렇게 뜬다
+한 번 올려보자 
